@@ -21,6 +21,7 @@ function formatTime(time) {
 /*
   1. Display the words
   2. I m coping the words
+  3. I am typing the words
 */
 
 function App() {
